@@ -5,3 +5,5 @@
 -sistema de registro en el juego
 
 -validar errores
+
+-- hello
