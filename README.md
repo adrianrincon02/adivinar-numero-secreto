@@ -3,3 +3,5 @@
 -Estado del proyecto: jugable analizando cambios
 
 -sistema de registro en el juego
+
+-validar errores
